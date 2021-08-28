@@ -37,7 +37,7 @@ Die von mir erstellten Inhalte auf den Webseiten enthalten keine ausführbaren L
 
 Siehe LICENSE (als Datei, mit oder ohne Endungen) auf den betreffenden Webseiten.
 
-Soweit die Inhalte meiner Dateien und den betreffenden Webseiten nicht von mir erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitte ich um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Inhalte umgehend entfernen.
+Soweit die Inhalte meiner Dateien mit den betreffenden Webseiten nicht von mir erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitte ich um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Inhalte umgehend entfernen.
 
 ### Datenschutz
 
