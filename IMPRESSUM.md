@@ -7,8 +7,8 @@ Hinweise - sofern meine Dateien, die auf nicht von mir betriebenen Webseiten hoc
 ## Angaben gemäß § 5 TMG
 
 ```
-Roland Horsch, Seemi. 6
-85051 Ingolstadt
+Roland Horsch, Tennloh.str.54
+91058 Erlangen
 (Tel. 017626241136)
 ```
 
